@@ -121,4 +121,17 @@ body {
 
 h3 {
   text-align: center;
+}
+
+/* 2xl */
+@media screen and (max-width: 1536px) {
+  p {
+    font-size: 50px;
+  }
+}
+/* xs */
+@media screen and (max-width: 475px) {
+  p {
+    font-size: 50px;
+  }
 }/*# sourceMappingURL=style.css.map */
