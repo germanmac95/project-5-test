@@ -51,7 +51,7 @@ body {
 
 .main {
   height: 60svh;
-  background-image: url("/app/media/spacepic.jpg");
+  background-image: url("./app/media/spacepic.jpg");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   display: flex;
